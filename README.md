@@ -4,7 +4,7 @@
 📍 Tezpur University, Assam, India
 
 I completed my **Diploma in Computer Science and Engineering from CIT Kokrajhar**.
-I am interested in **Algorithms, Automata Theory,Machine Learning and AI **.
+I am interested in **Algorithms, Automata Theory,AI and Machine Learning **.
 
 ---
 
@@ -13,7 +13,7 @@ I am interested in **Algorithms, Automata Theory,Machine Learning and AI **.
 * Algorithms and Data Structures
 * Automata Theory
 * Digital Circuits 
-* Machine Learning and AI
+* AI and ML
 
 ---
 
